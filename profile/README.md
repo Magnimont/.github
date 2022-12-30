@@ -1,12 +1,16 @@
-## Hi there 👋
+<h1>ABOUT US</h1> 
 
-<!--
+NoError Studios is a cutting-edge software development company that specializes in creating custom solutions for their clients. From Discord bots and websites to complex software applications and API development, they have the expertise and experience to bring your ideas to life.
 
-**Here are some ideas to get you started:**
+With a team of highly skilled programmers and developers, NoError Studios is dedicated to delivering top-quality, innovative solutions that meet the unique needs of each client. They are known for their creativity, technical expertise, and commitment to customer satisfaction, making them the go-to choice for businesses and individuals who need reliable, high-performance software.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+In addition to their custom programming and development services, NoError Studios also offers a range of other services, including software maintenance and support, training and consulting, and more. No matter what your software needs may be, NoError Studios has the skills and expertise to help you succeed.
+
+Website
+https://noerror.studio/
+
+ We provide a vast variety of websites and discord bots which are developed and nourished by our team and We have different custom projects alongside. Unlike other bot shops, we develop discord bots and websites according to the taste of our customers. You name them and we got it. Customers bring satisfied that is our main priority. Besides from bot orders we provide free open source projects on our youtube channel.
+
+Again You Can Order Various Others Things Related to Diff Platform and even order a software too!!
+
+So why not get a bot/Project today, not to someone else's choice but yours. Not someone else's needs but yours. Get it today! Make your imaginations comes to life with NoError Studios!
