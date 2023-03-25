@@ -1,4 +1,6 @@
-<h1>ABOUT US</h1> 
+<h1>NoError Studios</h1> 
+
+<img src="https://cdn.discordapp.com/attachments/978628841415274566/1088829854738292786/image.png" alt="Image" class="center">
 
 NoError Studios is a cutting-edge software development company that specializes in creating custom solutions for their clients. From Discord bots and websites to complex software applications and API development, they have the expertise and experience to bring your ideas to life.
 
@@ -14,3 +16,4 @@ https://noerror.studio/
 Again You Can Order Various Others Things Related to Diff Platform and even order a software too!!
 
 So why not get a bot/Project today, not to someone else's choice but yours. Not someone else's needs but yours. Get it today! Make your imaginations comes to life with NoError Studios!
+
