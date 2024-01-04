@@ -1,6 +1,6 @@
 <h1>NoError Studios</h1> 
 
-<img src="https://cdn.discordapp.com/attachments/978628841415274566/1088829854738292786/image.png" alt="Image" class="center">
+<img src="https://cdn.discordapp.com/attachments/978504859642908743/1192390405354963005/image.png?ex=65a8e71a&is=6596721a&hm=edc86ce3ea80d4c30eefea38f582dcf0f7e6dedcd054029480469363608b63b6&" alt="Image" class="center">
 
 NoError Studios is a cutting-edge software development company that specializes in creating custom solutions for their clients. From Discord bots and websites to complex software applications and API development, they have the expertise and experience to bring your ideas to life.
 
