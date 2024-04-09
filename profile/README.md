@@ -1,10 +1,12 @@
 ## ⚡What is Magnimont?
 We are a group of developers that create products as per customer requirements. We also create and open source some amazing projects that the community can use.
-Join our [discord](https://discord.gg/magnimont-876113814314164256)
+Join our [discord](https://discord.gg/magnimont-876113814314164256).
 
 ## 🔗 Links
 [Youtube](https://www.youtube.com/@Magnimont/videos) - our organization youtube link with preiwes of many projects
+
 [LinkedIn](https://www.linkedin.com/company/magnimont/) - our organization's LinkedIn profile
+
 [Testimonials](https://www.trustpilot.com/review/noerror.studio) - proof that we are legit and customers reviews
 
 ## 👩‍💻 Our Projects
